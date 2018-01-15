@@ -1,0 +1,35 @@
+[PROJECT]
+Target=Main.HEX
+Development_Mode=2
+Processor=0x877F
+ToolSuite=CCS
+
+[Directories]
+Include=
+Library=
+LinkerScript=
+
+[Target Data]
+FileList=C:\Documents and Settings\Pika\Desktop\Add to Robots Folder\Pikachu4leds\Code\Main.c
+BuildTool=C-COMPILER
+OptionString=+FM
+AdditionalOptionString=
+BuildRequired=1
+
+[Main.C]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+
+[mru-list]
+1=C:\DOCUME~1\Pika\Desktop\ADDTOR~1\PIKACH~1\Code\Main.C
+
+[Windows]
+0=0000 C:\DOCUME~1\Pika\Desktop\ADDTOR~1\PIKACH~1\Code\Main.C 0 0 796 451 3 0
+
+[Units]
+Count=1
+1=C:\Documents and Settings\Pika\Desktop\Add to Robots Folder\Pikachu4leds\Code\Main.c (main)
